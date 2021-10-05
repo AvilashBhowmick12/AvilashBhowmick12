@@ -14,5 +14,25 @@
 
 <img align="center" alt="SVG" src="https://github.com/AvilashBhowmick12/deadpool/blob/main/free-icons-png-gmail-icons-png-transparent-11562933247dwruwfixqm.png" width="40" height="30" />   [GMAIL](avilash_b.it2021@msit.edu.in)
 
-<img align="center" alt="SVG" src="https://github.com/AvilashBhowmick12/deadpool/blob/main/png-transparent-youtube-logo-youtube-play-button-computer-icons-youtube-icon-angle-rectangle-desktop-wallpaper.png" width="40" height="30" />   [YOUTUBE](avilash_b.it2021@msit.edu.in)
+<img align="center" alt="SVG" src="https://github.com/AvilashBhowmick12/deadpool/blob/main/png-transparent-youtube-logo-youtube-play-button-computer-icons-youtube-icon-angle-rectangle-desktop-wallpaper.png" width="40" height="30" />   [YOUTUBE](https://youtube.com/channel/UCR9Pvoi55P7yx4qsyFnA5lQ)
+
+* HERE ARE MY SKILLS*  🟦
+ 
+| S.NO | Skills| Years of Experience | 
+|---| ---| ---|
+|1.| React| 1year|
+|2.| C++| 1year|
+|3.| Graphic designer| 3years|
+|4.| Freelancer| 2years|
+
+## Courses  🔴
+1. GovOfIndia
+2. Unacademy
+3. Coursera
+
+## Languages 🗣️
+- ENGLISH
+- HINDI
+- BENGALI
+
 
