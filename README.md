@@ -14,3 +14,5 @@
 
 <img align="center" alt="SVG" src="https://github.com/AvilashBhowmick12/deadpool/blob/main/free-icons-png-gmail-icons-png-transparent-11562933247dwruwfixqm.png" width="40" height="30" />   [GMAIL](avilash_b.it2021@msit.edu.in)
 
+<img align="center" alt="SVG" src="https://github.com/AvilashBhowmick12/deadpool/blob/main/png-transparent-youtube-logo-youtube-play-button-computer-icons-youtube-icon-angle-rectangle-desktop-wallpaper.png" width="40" height="30" />   [YOUTUBE](avilash_b.it2021@msit.edu.in)
+
