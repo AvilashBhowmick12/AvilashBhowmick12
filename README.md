@@ -3,6 +3,7 @@
 <h3 align="center"> I'm presently studying at Meghnad Saha Institute of Technology, Ruby Park, Kolkata.</h3>
 
 
+<p align="center">
 <img align="center" alt="GIF" src="https://github.com/AvilashBhowmick12/deadpool/blob/main/opening_gif_futurre.gif" width="750" height="310" />
 
 
