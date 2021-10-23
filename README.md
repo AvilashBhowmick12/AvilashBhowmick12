@@ -20,7 +20,7 @@
 
 <img align="center" alt="SVG" src="https://github.com/AvilashBhowmick12/deadpool/blob/main/png-transparent-youtube-logo-youtube-play-button-computer-icons-youtube-icon-angle-rectangle-desktop-wallpaper.png" width="40" height="30" />   [YOUTUBE](https://youtube.com/channel/UCR9Pvoi55P7yx4qsyFnA5lQ)
 
-* HERE ARE MY SKILLS *  🟦 
+## * HERE ARE MY SKILLS *  🟦 
  
 | S.NO | Skills| Years of Experience | 
 |---| ---| ---|
