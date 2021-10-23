@@ -20,8 +20,10 @@
 
 <img align="center" alt="SVG" src="https://github.com/AvilashBhowmick12/deadpool/blob/main/png-transparent-youtube-logo-youtube-play-button-computer-icons-youtube-icon-angle-rectangle-desktop-wallpaper.png" width="40" height="30" />   [YOUTUBE](https://youtube.com/channel/UCR9Pvoi55P7yx4qsyFnA5lQ)
 
+<p align="center">
 * HERE ARE MY SKILLS*  🟦
  
+ <p align="center">
 | S.NO | Skills| Years of Experience | 
 |---| ---| ---|
 |1.| React| 1year|
@@ -29,18 +31,20 @@
 |3.| Graphic designer| 3years|
 |4.| Freelancer| 2years|
 
+<p align="center">
 ## Courses  🔴
 1. GovOfIndia
 2. Unacademy
 3. Coursera
 
+<p align="center">
 ## Languages 🗣️
 - ENGLISH
 - HINDI
 - BENGALI
 
 
-
+<p align="center">
 <img align="center" alt="GIF" src="https://github.com/AvilashBhowmick12/deadpool/blob/main/thankyou_gif.gif" width="750" height="310" />
 
 
