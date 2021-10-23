@@ -20,23 +20,23 @@
 
 <img align="center" alt="SVG" src="https://github.com/AvilashBhowmick12/deadpool/blob/main/png-transparent-youtube-logo-youtube-play-button-computer-icons-youtube-icon-angle-rectangle-desktop-wallpaper.png" width="40" height="30" />   [YOUTUBE](https://youtube.com/channel/UCR9Pvoi55P7yx4qsyFnA5lQ)
 
-* HERE ARE MY SKILLS*  🟦
+<h2 * HERE ARE MY SKILLS*  🟦  </h2>
  
 | S.NO | Skills| Years of Experience | 
 |---| ---| ---|
 |1.| React| 1year|
 |2.| C++| 1year|
 |3.| Graphic designer| 3years|
-|4.| Freelancer| 2years|  <img src="https://github.com/AvilashBhowmick12/AvilashBhowmick12/blob/main/skills%201.0.PNG"/>
+|4.| Freelancer| 2years| 
 
 <img src="https://github.com/AvilashBhowmick12/AvilashBhowmick12/blob/main/skills%201.0.PNG"/>
 
-## Courses  🔴
+<h2 ## Courses  🔴  </h2>
 1. GovOfIndia
 2. Unacademy
 3. Coursera
 
-## Languages 🗣️
+<h2 ## Languages 🗣️  </h2>
 - ENGLISH
 - HINDI
 - BENGALI
