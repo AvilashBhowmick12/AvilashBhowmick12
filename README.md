@@ -1,4 +1,5 @@
-<h2> HI <img src="https://github.com/AritraSinhaRoy/AritraSinhaRoy/blob/main/wave.gif" width="30px"></h4> , I'M AVILASH BHOWMICK</h4> 
+<h2> HI <img src="https://github.com/AritraSinhaRoy/AritraSinhaRoy/blob/main/wave.gif" width="30px"></h4> , I'M AVILASH BHOWMICK 
+
 
 <h3 align="center"> I'm presently studying at Meghnad Saha Institute of Technology, Ruby Park, Kolkata.</h3>
 
