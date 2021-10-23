@@ -27,7 +27,7 @@
 |1.| React| 1year|
 |2.| C++| 1year|
 |3.| Graphic designer| 3years|
-|4.| Freelancer| 2years|
+|4.| Freelancer| 2years|  <img src="https://github.com/AvilashBhowmick12/AvilashBhowmick12/blob/main/skills%201.0.PNG"/>
 
 <img src="https://github.com/AvilashBhowmick12/AvilashBhowmick12/blob/main/skills%201.0.PNG"/>
 
