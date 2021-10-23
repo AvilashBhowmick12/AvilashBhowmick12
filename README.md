@@ -29,7 +29,7 @@
 |3.| Graphic designer| 3years|
 |4.| Freelancer| 2years|
 
-https://github.com/AvilashBhowmick12/AvilashBhowmick12/blob/main/skills%201.0.PNG
+<img src="https://github.com/AvilashBhowmick12/AvilashBhowmick12/blob/main/skills%201.0.PNG"/>
 
 ## Courses  🔴
 1. GovOfIndia
