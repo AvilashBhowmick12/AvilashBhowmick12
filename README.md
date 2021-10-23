@@ -32,11 +32,13 @@
 <img src="https://github.com/AvilashBhowmick12/AvilashBhowmick12/blob/main/skills%201.0.PNG"/>
 
 <h2 ## Courses  🔴  </h2>
+
 1. GovOfIndia
 2. Unacademy
 3. Coursera
 
 <h2 ## Languages 🗣️  </h2>
+
 - ENGLISH
 - HINDI
 - BENGALI
