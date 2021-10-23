@@ -20,7 +20,7 @@
 
 <img align="center" alt="SVG" src="https://github.com/AvilashBhowmick12/deadpool/blob/main/png-transparent-youtube-logo-youtube-play-button-computer-icons-youtube-icon-angle-rectangle-desktop-wallpaper.png" width="40" height="30" />   [YOUTUBE](https://youtube.com/channel/UCR9Pvoi55P7yx4qsyFnA5lQ)
 
-* </h3>HERE ARE MY SKILLS*  🟦 
+* </h3 HERE ARE MY SKILLS*  🟦 
  
 | S.NO | Skills| Years of Experience | 
 |---| ---| ---|
@@ -31,13 +31,13 @@
 
 <img src="https://github.com/AvilashBhowmick12/AvilashBhowmick12/blob/main/skills%201.0.PNG"/>
 
-## </h3>Courses  🔴 
+## </h3 Courses  🔴 
 
 1. GovOfIndia
 2. Unacademy
 3. Coursera
 
-## </h3>Languages 🗣️ 
+## </h3 Languages 🗣️ 
 
 - ENGLISH
 - HINDI
