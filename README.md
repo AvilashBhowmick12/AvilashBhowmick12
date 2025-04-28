@@ -39,7 +39,7 @@ Hi, I’m Avilash Bhowmick, a B.tech student in Information Technology from Megh
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AvilashBhowmick12/AvilashBhowmick12/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/snake.svg" alt="Snake animation" />
 
 ###
 
