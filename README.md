@@ -35,11 +35,12 @@ Hi, I’m Avilash Bhowmick, a B.tech student in Information Technology from Megh
 <p align="center">
 <img align="center" alt="GIF" src="https://github.com/AvilashBhowmick12/deadpool/blob/main/thankyou_gif.gif" width="750" height="310" />
 
+###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvilashBhowmick12/avilashbhowmick12/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aAvilashBhowmick12/avilashbhowmick12/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AvilashBhowmick12/avilashbhowmick12/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvilashBhowmick12/AvilashBhowmick12/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aAvilashBhowmick12/AvilashBhowmick12/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AvilashBhowmick12/AvilashBhowmick12/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
