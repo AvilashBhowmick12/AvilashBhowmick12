@@ -25,7 +25,6 @@ Hi, I’m Avilash Bhowmick, a B.tech student in Information Technology from Megh
 [![](https://visitcount.itsvg.in/api?id=AvilashBhowmick12&icon=10&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ## Languages  🗣️ 
 
 - ENGLISH
@@ -42,7 +41,7 @@ Hi, I’m Avilash Bhowmick, a B.tech student in Information Technology from Megh
 <p align="center">
     Show ❤️ by starring repositories you find good! 
     <br />
-    ⭐️ From [Avilash Bhowmick](https://github.com/AvilashBhowmick12)
+    ⭐️ From [ Avilash Bhowmick ](https://github.com/AvilashBhowmick12)
     <br />
     Also, star and fork this repository if you wish to give this new feature a try!
   </p>
